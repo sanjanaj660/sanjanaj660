@@ -12,7 +12,7 @@
 
 ## 📚 My Academic Journey
 
-**🎯 Currently:** 2nd Year BCA Student (Semester 3)  
+**🎯 Currently:** 2nd Year BCA Student  
 **🏫 College:** [Your College Name]  
 **📅 Expected Graduation:** 2026  
 **🌟 Current Focus:** C# Programming, Database Systems, Web Development  
