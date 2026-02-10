@@ -13,7 +13,7 @@
 ## 📚 My Academic Journey
 
 **🎯 Currently:** 2nd Year BCA Student  
-**🏫 College:** [Your College Name]  
+**🏫 College:** KLE BCA Mahalingpur
 **📅 Expected Graduation:** 2026  
 **🌟 Current Focus:** C# Programming, Database Systems, Web Development  
 **🛠 Tech Stack:** C, C#, Java, Python, HTML/CSS, JavaScript, SQL
